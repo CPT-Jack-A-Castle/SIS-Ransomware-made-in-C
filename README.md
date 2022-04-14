@@ -1,5 +1,6 @@
-# ISIS-Ransomware
-- By: fed#1234 / not yet finished
+# SIS-Ransomware
+- By: TigerMate / not yet finished
+- Under Devoloping Mode
 
 # Paying the Ransom
 - you'll have to pay through the email that shows when you run the program
@@ -19,4 +20,5 @@
 - will change later...         
 
 # Credits
-- Made By: fed#1234
+- Made By: TigerMate
+Also you can Fund me for more Feature When Complite project I publish full sourse code on forum 
