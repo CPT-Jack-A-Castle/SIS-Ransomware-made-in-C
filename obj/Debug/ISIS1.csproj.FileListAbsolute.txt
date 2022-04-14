@@ -1,0 +1,12 @@
+C:\Users\betty\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.AssemblyReference.cache
+C:\Users\betty\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\betty\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.Properties.Resources.resources
+C:\Users\betty\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.ISIS.resources
+C:\Users\betty\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.GenerateResource.cache
+C:\Users\betty\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.CoreCompileInputs.cache
+C:\Users\betty\Desktop\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.AssemblyReference.cache
+C:\Users\betty\Desktop\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\betty\Desktop\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.Properties.Resources.resources
+C:\Users\betty\Desktop\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.ISIS.resources
+C:\Users\betty\Desktop\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.GenerateResource.cache
+C:\Users\betty\Desktop\source\repos\ISIS1\ISIS1\obj\Debug\ISIS1.csproj.CoreCompileInputs.cache
